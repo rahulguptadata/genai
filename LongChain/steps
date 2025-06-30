@@ -1,0 +1,3 @@
+ conda create -p venv python==3.13 -y
+ conda activate venv/   
+ pip install -r venv/requirement.txt
