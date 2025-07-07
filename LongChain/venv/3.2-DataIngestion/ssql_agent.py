@@ -62,7 +62,7 @@ if db_uri==MYSQL:
     db=configure_db(db_uri,mysql_host,mysql_user,mysql_pass,mysql_db)
 else:
     db=configure_db(db_uri)
-#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
+
 ##tool kit
 toolkit=SQLDatabaseToolkit(db=db,llm=llm)
 
