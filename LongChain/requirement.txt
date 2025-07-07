@@ -16,3 +16,11 @@ langchain-huggingface
 faiss-cpu
 chromadb
 langchain_chroma
+streamlit
+langchain_core
+langchain_groq
+mysql
+SQLAlchemy
+mysql-connector-python
+
+
