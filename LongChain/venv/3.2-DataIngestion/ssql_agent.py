@@ -42,7 +42,7 @@ if not api_key:
 
 ## llm model
 
-llm=ChatGroq(groq_api_key="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",model_name="Llama3-8b-8192",streaming=True)
+llm=ChatGroq(groq_api_key="",model_name="Llama3-8b-8192",streaming=True)
 
 @st.cache_resource(ttl="2h")
 
